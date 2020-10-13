@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning tensorflow, Node Js.
 - 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](techscinotes.xyz)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp[LinkedIn](https://www.linkedin.com/in/abhishek-kumar-9872241ab/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-9872241ab/)
 
 <h2>⚡ Fun fact: I love to watch machines learn and behave like humans but not vice-versa.
 
