@@ -3,8 +3,8 @@
 <h3>   2nd Year - Bachelor of Technology,</h3>
 <h3>     Electrical Engineering</h3>
 
-- 🔭 I’m currently doing an Internship in full stack web development at <b>Internshala</b>.
-- 🌱 I’m currently learning tensorflow, Node Js.
+- 🔭 I’m currently exploring the world of <b>Machine learning</b>.
+- 🌱 I’m currently exploring the world of <b>Web designing and development</b>.
 - 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](http://www.techscinotes.xyz)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-9872241ab/)
