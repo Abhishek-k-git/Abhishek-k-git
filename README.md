@@ -16,7 +16,7 @@
 ### Languages and Tools:
 
 ![HTML5](
-https://github.com/Abhishek-k-git/images/blob/main/html.svg =40x40
+https://github.com/Abhishek-k-git/images/blob/main/html.svg {width=50% }
 )
 ![CSS3](
 https://github.com/Abhishek-k-git/images/blob/main/css.svg=40x40
