@@ -8,19 +8,19 @@
 - ⚡ Fun fact: I love to watch machines learn and behave like humans but not vice-versa.🤣
 
 ### Connect with me:
-[![Website](https://github.com/Abhishek-k-git/images/blob/main/website.svg/)](http://www.techscinotes.xyz)
-[![Linkedin](https://github.com/Abhishek-k-git/images/blob/main/linkedin.svg/)](https://www.linkedin.com/in/abhishek-kumar-9872241ab/)
+<a href="http://www.techscinotes.xyz"><img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/website.svg" width="40" height="40" style="margin-right:20px;" /></a>
+<a href="http://www.techscinotes.xyz"><img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/linkedin.svg" width="40" height="40" /></a>
 <br />
 ---
 
 ### Languages and Tools:
 
-<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/html.svg" width="40" height="40" />
-<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/css.svg" width="40" height="40" />
-<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/javascript.svg" width="40" height="40" />
-<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/nodejs.svg" width="40" height="40" />
-<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/mysql.svg" width="40" height="40" />
-<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/python.svg" width="40" height="40" />
+<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/html.svg" width="40" height="40" style="float:left;" />
+<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/css.svg" width="40" height="40" style="float:left;" />
+<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/javascript.svg" width="40" height="40" style="float:left;" />
+<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/nodejs.svg" width="40" height="40" style="float:left;" />
+<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/mysql.svg" width="40" height="40" style="float:left;" />
+<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/python.svg" width="40" height="40" style="float:left;" />
 
 ![HTML5](
 https://github.com/Abhishek-k-git/images/blob/main/html.svg
