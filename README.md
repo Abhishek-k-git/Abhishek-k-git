@@ -15,6 +15,9 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="
+https://github.com/Abhishek-k-git/images/blob/main/html.svg
+" />][webdevplaylist]
 ![HTML5](
 https://github.com/Abhishek-k-git/images/blob/main/html.svg
 )
