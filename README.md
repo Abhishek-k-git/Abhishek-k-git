@@ -9,36 +9,17 @@
 
 ### Connect with me:
 <a href="http://www.techscinotes.xyz"><img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/website.svg" width="40" height="40" style="margin-right:20px;" /></a>
-<a href="http://www.techscinotes.xyz"><img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/linkedin.svg" width="40" height="40" /></a>
+<a href="http://www.linkedin.com/in/abhishek-kumar-9872241ab/"><img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/linkedin.svg" width="40" height="40" /></a>
 <br />
 ---
 
 ### Languages and Tools:
 
-<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/html.svg" width="40" height="40" style="float:left;" />
-<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/css.svg" width="40" height="40" style="float:left;" />
-<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/javascript.svg" width="40" height="40" style="float:left;" />
-<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/nodejs.svg" width="40" height="40" style="float:left;" />
-<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/mysql.svg" width="40" height="40" style="float:left;" />
-<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/python.svg" width="40" height="40" style="float:left;" />
-
-![HTML5](
-https://github.com/Abhishek-k-git/images/blob/main/html.svg
-)
-![CSS3](
-https://github.com/Abhishek-k-git/images/blob/main/css.svg
-)
-![JavaScript](
-https://github.com/Abhishek-k-git/images/blob/main/javascript.svg
-)
-![Nodejs](
-https://github.com/Abhishek-k-git/images/blob/main/nodejs.svg
-)
-![MYSQL](
-https://github.com/Abhishek-k-git/images/blob/main/mysql.svg
-)
-![Python](
-https://github.com/Abhishek-k-git/images/blob/main/python.svg
-)
+<a href="#"> <img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/html.svg" width="40" height="40" /> </a>
+<a href="#"> <img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/css.svg" width="40" height="40" /> </a>
+<a href="#"> <img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/javascript.svg" width="40" height="40" /> </a>
+<a href="#"> <img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/nodejs.svg" width="40" height="40" /> </a>
+<a href="#"> <img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/mysql.svg" width="40" height="40" /> </a>
+<a href="#"> <img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/python.svg" width="40" height="40" /> </a>
 <br />
 ---
