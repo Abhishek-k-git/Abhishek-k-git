@@ -15,26 +15,23 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="
-https://github.com/Abhishek-k-git/images/blob/main/html.svg
-" />][webdevplaylist]
 ![HTML5](
-https://github.com/Abhishek-k-git/images/blob/main/html.svg
+https://github.com/Abhishek-k-git/images/blob/main/html.svg =40x40
 )
 ![CSS3](
-https://github.com/Abhishek-k-git/images/blob/main/css.svg
+https://github.com/Abhishek-k-git/images/blob/main/css.svg=40x40
 )
 ![JavaScript](
-https://github.com/Abhishek-k-git/images/blob/main/javascript.svg
+https://github.com/Abhishek-k-git/images/blob/main/javascript.svg =40x40
 )
 ![Nodejs](
-https://github.com/Abhishek-k-git/images/blob/main/nodejs.svg
+https://github.com/Abhishek-k-git/images/blob/main/nodejs.svg=40x40
 )
 ![MYSQL](
-https://github.com/Abhishek-k-git/images/blob/main/mysql.svg
+https://github.com/Abhishek-k-git/images/blob/main/mysql.svg =40x40
 )
 ![Python](
-https://github.com/Abhishek-k-git/images/blob/main/python.svg
+https://github.com/Abhishek-k-git/images/blob/main/python.svg=40x40
 )
 <br />
 ---
