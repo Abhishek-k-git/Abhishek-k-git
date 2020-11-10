@@ -15,23 +15,30 @@
 
 ### Languages and Tools:
 
+<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/html.svg" width="40" height="40" />
+<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/css.svg" width="40" height="40" />
+<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/javascript.svg" width="40" height="40" />
+<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/nodejs.svg" width="40" height="40" />
+<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/mysql.svg" width="40" height="40" />
+<img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/python.svg" width="40" height="40" />
+
 ![HTML5](
-https://github.com/Abhishek-k-git/images/blob/main/html.svg {width=50% }
+https://github.com/Abhishek-k-git/images/blob/main/html.svg
 )
 ![CSS3](
-https://github.com/Abhishek-k-git/images/blob/main/css.svg=40x40
+https://github.com/Abhishek-k-git/images/blob/main/css.svg
 )
 ![JavaScript](
-https://github.com/Abhishek-k-git/images/blob/main/javascript.svg =40x40
+https://github.com/Abhishek-k-git/images/blob/main/javascript.svg
 )
 ![Nodejs](
-https://github.com/Abhishek-k-git/images/blob/main/nodejs.svg=40x40
+https://github.com/Abhishek-k-git/images/blob/main/nodejs.svg
 )
 ![MYSQL](
-https://github.com/Abhishek-k-git/images/blob/main/mysql.svg =40x40
+https://github.com/Abhishek-k-git/images/blob/main/mysql.svg
 )
 ![Python](
-https://github.com/Abhishek-k-git/images/blob/main/python.svg=40x40
+https://github.com/Abhishek-k-git/images/blob/main/python.svg
 )
 <br />
 ---
