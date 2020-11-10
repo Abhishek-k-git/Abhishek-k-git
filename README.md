@@ -15,23 +15,23 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px"src="
+![HTML5](
 https://github.com/Abhishek-k-git/images/blob/main/html.svg
-" />][HTML5]
-[<img align="left" alt="CSS3" width="26px" src="
+)
+![CSS3](
 https://github.com/Abhishek-k-git/images/blob/main/css.svg
-" />][CSS3]
-[<img align="left" alt="JavaScript" width="26px" src="
+)
+![JavaScript](
 https://github.com/Abhishek-k-git/images/blob/main/javascript.svg
-" />][JavaScript]
-[<img align="left" alt="Node.js" width="26px" src="
+)
+![Nodejs](
 https://github.com/Abhishek-k-git/images/blob/main/nodejs.svg
-" />][Nodejs]
-[<img align="left" alt="MySQL" width="26px" src="
+)
+![MYSQL](
 https://github.com/Abhishek-k-git/images/blob/main/mysql.svg
-" />][MYSQL]
-[<img align="left" alt="PYTHON" width="26px" src="
+)
+![Python](
 https://github.com/Abhishek-k-git/images/blob/main/python.svg
-" />][Python]
+)
 <br />
 ---
