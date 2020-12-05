@@ -8,18 +8,18 @@
 - ⚡ Fun fact: I love to watch machines learn and behave like humans but not vice-versa.🤣
 
 ### Connect with me:
-<a href="http://www.techscinotes.xyz"><img alt="Website" src="https://github.com/Abhishek-k-git/images/blob/main/website.svg" width="40" height="40" style="margin-right:20px;" /></a>
-<a href="http://www.linkedin.com/in/abhishek-kumar-9872241ab/"><img alt="Linkedin" src="https://github.com/Abhishek-k-git/images/blob/main/linkedin.svg" width="40" height="40" /></a>
+<a href="http://www.techscinotes.xyz"><img alt="Website" src="https://github.com/Abhishek-k-git/image/blob/main/website.svg" width="40" height="40" style="margin-right:20px;" /></a>
+<a href="http://www.linkedin.com/in/abhishek-kumar-9872241ab/"><img alt="Linkedin" src="https://github.com/Abhishek-k-git/image/blob/main/linkedin.svg" width="40" height="40" /></a>
 <br />
 ---
 
 ### Languages and Tools:
 
-<a href="#"> <img alt="HTML5" src="https://github.com/Abhishek-k-git/images/blob/main/html.svg" width="40" height="40" /> </a>
-<a href="#"> <img alt="CSS3" src="https://github.com/Abhishek-k-git/images/blob/main/css.svg" width="40" height="40" /> </a>
-<a href="#"> <img alt="Javascript" src="https://github.com/Abhishek-k-git/images/blob/main/javascript.svg" width="40" height="40" /> </a>
-<a href="#"> <img alt="Nodejs" src="https://github.com/Abhishek-k-git/images/blob/main/nodejs.svg" width="40" height="40" /> </a>
-<a href="#"> <img alt="SQL" src="https://github.com/Abhishek-k-git/images/blob/main/mysql.svg" width="40" height="40" /> </a>
-<a href="#"> <img alt="Python" src="https://github.com/Abhishek-k-git/images/blob/main/python.svg" width="40" height="40" /> </a>
+<a href="#"> <img alt="HTML5" src="https://github.com/Abhishek-k-git/image/blob/main/html.svg" width="40" height="40" /> </a>
+<a href="#"> <img alt="CSS3" src="https://github.com/Abhishek-k-git/image/blob/main/css.svg" width="40" height="40" /> </a>
+<a href="#"> <img alt="Javascript" src="https://github.com/Abhishek-k-git/image/blob/main/javascript.svg" width="40" height="40" /> </a>
+<a href="#"> <img alt="Nodejs" src="https://github.com/Abhishek-k-git/image/blob/main/nodejs.svg" width="40" height="40" /> </a>
+<a href="#"> <img alt="SQL" src="https://github.com/Abhishek-k-git/image/blob/main/mysql.svg" width="40" height="40" /> </a>
+<a href="#"> <img alt="Python" src="https://github.com/Abhishek-k-git/image/blob/main/python.svg" width="40" height="40" /> </a>
 <br />
 ---
