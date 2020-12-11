@@ -2,8 +2,7 @@
 # Hi, I'm Abhishek kumar 👋
 ### B.Tech 2nd year, Electrical Engineering
 
-- 🔭 I have just completed my first Internship.
-- 🌱 I’m currently learning **Django**.
+- 🌱 I’m currently learning **Tensorflow**.
 - 👯 I’m working on my **machine learning** skills.
 - ⚡ Fun fact: I love to watch machines learn and behave like humans but not vice-versa.🤣
 
@@ -18,7 +17,11 @@
 <a href="#"> <img alt="HTML5" src="https://github.com/Abhishek-k-git/image/blob/main/html.svg" width="40" height="40" /> </a>
 <a href="#"> <img alt="CSS3" src="https://github.com/Abhishek-k-git/image/blob/main/css.svg" width="40" height="40" /> </a>
 <a href="#"> <img alt="Javascript" src="https://github.com/Abhishek-k-git/image/blob/main/javascript.svg" width="40" height="40" /> </a>
+<a href="#"> <img alt="MongoDb" src="https://github.com/Abhishek-k-git/image/blob/main/mongodb.svg" width="40" height="40" /> </a>
+<a href="#"> <img alt="Express" src="https://github.com/Abhishek-k-git/image/blob/main/express.png" width="40" height="40" /> </a>
+<a href="#"> <img alt="React" src="https://github.com/Abhishek-k-git/image/blob/main/react.png" width="40" height="40" /> </a>
 <a href="#"> <img alt="Nodejs" src="https://github.com/Abhishek-k-git/image/blob/main/nodejs.svg" width="40" height="40" /> </a>
+<a href="#"> <img alt="PhP" src="https://github.com/Abhishek-k-git/image/blob/main/php.svg" width="40" height="40" /> </a>
 <a href="#"> <img alt="SQL" src="https://github.com/Abhishek-k-git/image/blob/main/mysql.svg" width="40" height="40" /> </a>
 <a href="#"> <img alt="Python" src="https://github.com/Abhishek-k-git/image/blob/main/python.svg" width="40" height="40" /> </a>
 <br />
