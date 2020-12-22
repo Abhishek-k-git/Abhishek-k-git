@@ -1,4 +1,5 @@
 ![loading](https://images.unsplash.com/photo-1545987796-200677ee1011?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=960&h=300&q=60)
+<img align="right" alt="Coding" width="400" src="https://github.com/Abhishek-k-git/Image/blob/main/mygif.svg">
 # Hi, I'm Abhishek kumar 👋
 ### B.Tech 2nd year, Electrical Engineering
 
