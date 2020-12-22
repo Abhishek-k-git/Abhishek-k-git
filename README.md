@@ -12,8 +12,8 @@
 - ⚡ Fun fact: I love to watch machines learn and behave like humans but not vice-versa.🤣
 
 ### Connect with me:
-<a href="http://www.techscinotes.xyz"><img alt="Website" src="https://github.com/Abhishek-k-git/image/blob/main/website.svg" width="40" height="40" style="margin-right:20px;" /></a>
-<a href="http://www.linkedin.com/in/abhishek-kumar-9872241ab/"><img alt="Linkedin" src="https://github.com/Abhishek-k-git/image/blob/main/linkedin.svg" width="40" height="40" /></a>
+<a href="http://www.techscinotes.xyz"><img alt="Website" src="https://github.com/Abhishek-k-git/image/blob/main/website.png" width="30" height="30" style="margin-right:20px;" /></a>
+<a href="http://www.linkedin.com/in/abhishek-kumar-9872241ab/"><img alt="Linkedin" src="https://github.com/Abhishek-k-git/image/blob/main/linkedin.svg" width="30" height="30" /></a>
 <br />
 <!--
 [<img align="left" alt="website" width="22px" src="http://www.techscinotes.xyz" />][website]
