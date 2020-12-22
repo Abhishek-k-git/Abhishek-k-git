@@ -3,6 +3,9 @@
 # Hi, I'm Abhishek kumar 👋
 ### B.Tech 2nd year, Electrical Engineering
 
+[![Website](https://img.shields.io/website?label=techscinotes.xyz&style=for-the-badge&url=http%3A%2F%2Ftechscinotes.xyz)](http://techscinotes.xyz)
+
+
 - 🌱 I’m currently learning **Tensorflow**.
 - 👯 I’m working on my **machine learning** skills.
 - ⚡ Fun fact: I love to watch machines learn and behave like humans but not vice-versa.🤣
