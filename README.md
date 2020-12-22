@@ -11,6 +11,12 @@
 <a href="http://www.techscinotes.xyz"><img alt="Website" src="https://github.com/Abhishek-k-git/image/blob/main/website.svg" width="40" height="40" style="margin-right:20px;" /></a>
 <a href="http://www.linkedin.com/in/abhishek-kumar-9872241ab/"><img alt="Linkedin" src="https://github.com/Abhishek-k-git/image/blob/main/linkedin.svg" width="40" height="40" /></a>
 <br />
+<!--
+[<img align="left" alt="website" width="22px" src="http://www.techscinotes.xyz" />][website]
+[<img align="left" alt="youtube | YouTube" width="22px" src="#" />][youtube]
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://www.linkedin.com/in/abhishek--kr/" />][linkedin]
+<br />
+-->
 ---
 
 ### Languages and Tools:
@@ -27,3 +33,8 @@
 <a href="#"> <img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" height="50" /> </a>
 <br />
 ---
+
+<summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Abhishek GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Abhishek-k-git&show_icons=true&hide_border=true" />
+  
