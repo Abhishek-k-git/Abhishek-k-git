@@ -4,6 +4,7 @@
 ### B.Tech 2nd year, Electrical Engineering
 
 [![Website](https://img.shields.io/website?label=techscinotes.xyz&style=for-the-badge&url=http%3A%2F%2Ftechscinotes.xyz)](http://techscinotes.xyz)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Abhishek-k-git.visitor-badge)
 
 
 - 🌱 I’m currently learning **Tensorflow**.
@@ -36,6 +37,7 @@
 <a href="#"> <img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" height="50" /> </a>
 <br />
 ---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-k-git)](https://github.com/Abhishek-k-git)
 
 <img align="right" alt="Abhishek GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Abhishek-k-git&show_icons=true&hide_border=true" />
