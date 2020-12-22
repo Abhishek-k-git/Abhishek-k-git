@@ -9,21 +9,21 @@
 
 ### Connect with me:
 <a href="http://www.techscinotes.xyz"><img alt="Website" src="https://github.com/Abhishek-k-git/image/blob/main/website.svg" width="40" height="40" style="margin-right:20px;" /></a>
-<a href="http://www.linkedin.com/in/abhishek-kumar-9872241ab/"><img alt="Linkedin" src="https://github.com/Abhishek-k-git/image/blob/main/linkedin.svg" width="40" height="40" /></a>
+<a href="http://www.linkedin.com/in/abhishek-kumar-9872241ab/"><img alt="Linkedin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin.png" width="40" height="40" /></a>
 <br />
 ---
 
 ### Languages and Tools:
 
-<a href="#"> <img alt="HTML5" src="https://github.com/Abhishek-k-git/image/blob/main/html.svg" width="40" height="40" /> </a>
-<a href="#"> <img alt="CSS3" src="https://github.com/Abhishek-k-git/image/blob/main/css.svg" width="40" height="40" /> </a>
-<a href="#"> <img alt="Javascript" src="https://github.com/Abhishek-k-git/image/blob/main/javascript.svg" width="40" height="40" /> </a>
-<a href="#"> <img alt="MongoDb" src="https://github.com/Abhishek-k-git/image/blob/main/mongodb.svg" width="40" height="40" /> </a>
-<a href="#"> <img alt="Express" src="https://github.com/Abhishek-k-git/image/blob/main/express.png" width="40" height="40" /> </a>
-<a href="#"> <img alt="React" src="https://github.com/Abhishek-k-git/image/blob/main/react.png" width="40" height="40" /> </a>
-<a href="#"> <img alt="Nodejs" src="https://github.com/Abhishek-k-git/image/blob/main/nodejs.svg" width="40" height="40" /> </a>
-<a href="#"> <img alt="PhP" src="https://github.com/Abhishek-k-git/image/blob/main/php.svg" width="40" height="40" /> </a>
-<a href="#"> <img alt="SQL" src="https://github.com/Abhishek-k-git/image/blob/main/mysql.svg" width="40" height="40" /> </a>
-<a href="#"> <img alt="Python" src="https://github.com/Abhishek-k-git/image/blob/main/python.svg" width="40" height="40" /> </a>
+<a href="#"> <img alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40" height="40" /> </a>
+<a href="#"> <img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40" height="40" /> </a>
+<a href="#"> <img alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40" height="40" /> </a>
+<a href="#"> <img alt="MongoDb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="40" height="40" /> </a>
+<a href="#"> <img alt="Express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="40" height="40" /> </a>
+<a href="#"> <img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" height="40" /> </a>
+<a href="#"> <img alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png" width="40" height="40" /> </a>
+<a href="#"> <img alt="PhP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="40" height="40" /> </a>
+<a href="#"> <img alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="40" height="40" /> </a>
+<a href="#"> <img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40" /> </a>
 <br />
 ---
