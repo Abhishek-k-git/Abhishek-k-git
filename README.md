@@ -16,7 +16,6 @@
 <a href="http://www.linkedin.com/in/abhishek-kumar-9872241ab/"><img alt="Linkedin" src="https://github.com/Abhishek-k-git/image/blob/main/linkedin.svg" width="30" height="30" style="margin-right:40px;"  /></a>
 <br />
 <!--
-[<img align="left" alt="website" width="22px" src="http://www.techscinotes.xyz" />][website]
 [<img align="left" alt="youtube | YouTube" width="22px" src="#" />][youtube]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://www.linkedin.com/in/abhishek--kr/" />][linkedin]
 <br />
