@@ -3,7 +3,7 @@
 # Hi, I'm Abhishek kumar 👋
 ### B.Tech 2nd year, Electrical Engineering
 
-[![Website](https://img.shields.io/website?label=techscinotes.xyz&style=for-the-badge&url=http%3A%2F%2Ftechscinotes.xyz)](http://techscinotes.xyz)
+<!--[![Website](https://img.shields.io/website?label=techscinotes.xyz&style=for-the-badge&url=http%3A%2F%2Ftechscinotes.xyz)](http://techscinotes.xyz)-->
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Abhishek-k-git.visitor-badge)
 
 
@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to watch machines learn and behave like humans but not vice-versa.🤣
 
 ### Connect with me:
-<a href="http://www.techscinotes.xyz"><img alt="Website" src="https://github.com/Abhishek-k-git/image/blob/main/website.png" width="30" height="30" style="margin-right:40px;" /></a>
+<!--<a href="http://www.techscinotes.xyz"><img alt="Website" src="https://github.com/Abhishek-k-git/image/blob/main/website.png" width="30" height="30" style="margin-right:40px;" /></a>-->
 <a href="http://www.linkedin.com/in/abhishek-kumar-9872241ab/"><img alt="Linkedin" src="https://github.com/Abhishek-k-git/image/blob/main/linkedin.svg" width="30" height="30" style="margin-right:40px;"  /></a>
 <br />
 <!--
