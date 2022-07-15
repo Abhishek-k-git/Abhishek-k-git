@@ -22,7 +22,7 @@
 [<img src="https://img.shields.io/badge/Css3-2962FF?style=for-the-badge&logo=css3&logoColor=white"/>](css3)
 [<img src="https://img.shields.io/badge/Javascript-FFA500?style=for-the-badge&logo=javascript&logoColor=white"/>](javascript)
 [<img src="	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>](php)
-[<img src="https://img.shields.io/badge/Sql-DDE072?style=for-the-badge&logo=Sql&logoColor=white"/>](sql)
+[<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>](sql)
 [<img src="https://img.shields.io/badge/Mongodb-25D366?style=for-the-badge&logo=mongodb&logoColor=white"/>](mongodb)
 [<img src="https://img.shields.io/badge/Express-3C3C3D?style=for-the-badge&logo=Express&logoColor=white"/>](express)
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>](react)
