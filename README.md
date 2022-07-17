@@ -4,8 +4,9 @@
 ### B.Tech 3rd year, Electrical Engineering
 [Government Engineering College Arwal](https://www.gecarwal.ac.in/)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Abhishek-k-git.visitor-badge)
-![visitor badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabhishek-k-git1212%2Fhit-counter)
+<!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Abhishek-k-git.visitor-badge)-->
+![Profile View Counter](https://komarev.com/ghpvc/?username=Abhishek-k-git)
+![hits badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabhishek-k-git1212%2Fhit-counter)
 
 - 💻 Interested in **machine learning** and **web development**
 - 🧐 Looking for new opportunities.
