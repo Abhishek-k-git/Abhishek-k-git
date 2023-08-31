@@ -1,7 +1,7 @@
 ![loading](https://images.unsplash.com/photo-1545987796-200677ee1011?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=960&h=300&q=60)
 <img align="right" alt="Coding" width="400" src="https://github.com/Abhishek-k-git/Image/blob/main/mygif.svg">
 # Hi, I'm Abhishek kumar 👋
-### B.Tech 3rd year, Electrical Engineering
+### B.Tech, Electrical Engineering
 [Government Engineering College Arwal](https://www.gecarwal.ac.in/)
 
 <!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Abhishek-k-git.visitor-badge)-->
@@ -19,6 +19,7 @@
 
 #### Languages and Tools:
 
+[<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />](c++)
 [<img src="https://img.shields.io/badge/Html5-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>](html5)
 [<img src="https://img.shields.io/badge/Css3-2962FF?style=for-the-badge&logo=css3&logoColor=white"/>](css3)
 [<img src="https://img.shields.io/badge/Javascript-FFA500?style=for-the-badge&logo=javascript&logoColor=white"/>](javascript)
@@ -34,22 +35,15 @@
 [<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=Matplotlib&logoColor=white"/>](matplotlib)
 [<img src="https://img.shields.io/badge/Seaborn-430098?style=for-the-badge&logo=seaborn&logoColor=white"/>](seaborn)
 [<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>](Scikit-learn)
-[<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>](heroku)
-[<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />](firebase)
-[<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />](chartJs)
-[<img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />](socket.io)
 <!--
 [<img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"/>](scipy)
 [<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>](TensorFlow)
 -->
 
-<!--
-[<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />](c++)
-[<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />](c++)
--->
 ---
-
+<!--
 [![git stats](https://github-readme-stats.vercel.app/api?username=Abhishek-k-git)](https://github.com/Abhishek-k-git)
+-->
 [![git streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-k-git)](https://github.com/Abhishek-k-git)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-k-git)](https://github.com/Abhishek-k-git) 
 [![git trophy](https://github-profile-trophy.vercel.app/?username=Abhishek-k-git)](https://github.com/Abhishek-k-git)
