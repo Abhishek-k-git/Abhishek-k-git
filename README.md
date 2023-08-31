@@ -14,7 +14,6 @@
 
 #### Connect with me:
 <a href="http://www.linkedin.com/in/abhishek-kumar-9872241ab/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.youtube.com/channel/UCU79yiK3FOYQMrUQpH-uHSQ"/><img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 ---
 
 #### Languages and Tools:
