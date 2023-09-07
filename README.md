@@ -1,11 +1,11 @@
 ![loading](https://images.unsplash.com/photo-1545987796-200677ee1011?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=960&h=300&q=60)
-<img align="right" alt="Coding" width="400" src="https://github.com/Abhishek-k-git/Image/blob/main/mygif.svg">
+<!--<img align="right" alt="Coding" width="400" src="https://github.com/Abhishek-k-git/Image/blob/main/mygif.svg">-->
 # Hi, I'm Abhishek kumar 👋
 ### B.Tech, Electrical Engineering
 [Government Engineering College Arwal](https://www.gecarwal.ac.in/)
 
-<!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Abhishek-k-git.visitor-badge)-->
-![Profile View Counter](https://komarev.com/ghpvc/?username=Abhishek-k-git)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Abhishek-k-git.visitor-badge)
+<!--![Profile View Counter](https://komarev.com/ghpvc/?username=Abhishek-k-git)-->
 ![hits badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabhishek-k-git1212%2Fhit-counter)
 
 - 💻 Interested in **machine learning** and **web development**
@@ -45,4 +45,4 @@
 -->
 [![git streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-k-git)](https://github.com/Abhishek-k-git)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-k-git)](https://github.com/Abhishek-k-git) 
-[![git trophy](https://github-profile-trophy.vercel.app/?username=Abhishek-k-git)](https://github.com/Abhishek-k-git)
+<!--[![git trophy](https://github-profile-trophy.vercel.app/?username=Abhishek-k-git)](https://github.com/Abhishek-k-git)-->
