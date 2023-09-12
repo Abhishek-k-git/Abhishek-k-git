@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love to watch machines learn and behave like humans but not vice-versa.🤣
 
 #### Connect with me:
-<a href="http://www.linkedin.com/in/abhishek-kumar-9872241ab/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="http://www.linkedin.com/in/abhishek--kr"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ---
 
