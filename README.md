@@ -48,5 +48,6 @@
 [![git stats](https://github-readme-stats.vercel.app/api?username=Abhishek-k-git)](https://github.com/Abhishek-k-git)
 -->
 [![git streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-k-git)](https://github.com/Abhishek-k-git)
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-k-git)](https://github.com/Abhishek-k-git) 
-<!--[![git trophy](https://github-profile-trophy.vercel.app/?username=Abhishek-k-git)](https://github.com/Abhishek-k-git)-->
+[![git trophy](https://github-profile-trophy.vercel.app/?username=Abhishek-k-git)](https://github.com/Abhishek-k-git)-->
