@@ -2,7 +2,7 @@
 <!--<img align="right" alt="Coding" width="400" src="https://github.com/Abhishek-k-git/Image/blob/main/mygif.svg">-->
 # Hi, I'm Abhishek kumar 👋
 ### B.Tech, Electrical Engineering
-[Government Engineering College Arwal](https://www.gecarwal.ac.in/)
+<!--[Government Engineering College Arwal](https://www.gecarwal.ac.in/)-->
 
 ![Visitor Count](https://profile-counter.glitch.me/Abhishek-k-git/count.svg)
 ![hits badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabhishek-k-git1212%2Fhit-counter)
@@ -12,10 +12,10 @@
 - ❤️ I love to listen music, Reading/Listening books on cosmos and philosophy of life
 - ⚡ Fun fact: I love to watch machines learn and behave like humans but not vice-versa.🤣
 
-/*
+<!--
 #### Connect with me:
 <a href="http://www.linkedin.com/in/abhishek--kr"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-*/
+-->
 ---
 
 #### Languages and Tools:
